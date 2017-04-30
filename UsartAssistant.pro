@@ -53,4 +53,5 @@ LIBS        += "D:\soft\HALCON-13.0/lib/x64-win64/hdevenginex.lib"
 LIBS        += "D:\soft\HALCON-13.0/lib/x64-win64/hdevenginexxl.lib"
 
 DISTFILES += \
-    ReadMe.txt
+    ReadMe.txt \
+    AlternateCode.txt
